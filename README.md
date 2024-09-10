@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0125-valid-palindrome) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
