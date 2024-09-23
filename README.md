@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Codingkhushi/leetcode-solved-questions/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
